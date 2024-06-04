@@ -1,5 +1,5 @@
 language: java
-jdk: oraclejdk8
+jdk: openjdk21
 
 script:
-  - gradle test # Or gradle test if using Gradle
+  - gradle test
