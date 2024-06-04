@@ -1,5 +1,5 @@
 language: java
-jdk: openjdk21
+jdk: oraclejdk11
 
 script:
   - gradle test
